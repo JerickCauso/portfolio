@@ -1,4 +1,5 @@
 import "./App.css";
+import $ from "jquery";
 
 function App() {
   return (
